@@ -1,0 +1,14 @@
+{
+  "name": "webapp-dev",
+  "version": "1.0.0",
+  "description": "Development only environment for learning and experimental web app development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven Weatherspoon",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
